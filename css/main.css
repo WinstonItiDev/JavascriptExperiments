@@ -19,7 +19,22 @@ html {
 	display: flex;
 }
 
-.row-pixi {
+.row-pixi-1 {
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+.row-pixi-2 {
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+.row-pixi-3 {
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+.row-pixi-4 {
 	padding: 20px;
 	background-color: lightgrey;
 }
@@ -30,6 +45,13 @@ canvas {
 }
 
 .title {
+	text-align: center;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	font-style: normal;
+	color: white; 
+}
+
+.paragraph {
 	text-align: center;
 	font-family: 'Encode Sans Condensed', sans-serif;
 	font-style: normal;
